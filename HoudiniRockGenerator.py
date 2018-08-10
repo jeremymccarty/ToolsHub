@@ -1,3 +1,8 @@
+# Houdini Rock Generator
+# Version 1.4
+# Created by Jeremy McCarty, 2017-2018
+# All content © 2018 DigiPen (USA) Corporation and Jeremy McCarty, all rights reserved.
+
 # clear the session
 hou.hipFile.clear()
 
