@@ -23,7 +23,7 @@ Import as a Python (.py) script into Maya and execute.
 ### Description
 - Creates dozens of poly-scalable rocks in Houdini.
 - Uses subsurface scatter and Voronoi fracturing.
-- Automated implementation Henry Medhurst's method.
+- Automated implementation [Henry Medhurst's method](https://www.youtube.com/watch?v=UIDwK5to1lE&feature=youtu.be).
 
 ### Usage
 Import as a Python (.py) script into Houdini and execute.
