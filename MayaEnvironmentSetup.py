@@ -1,7 +1,7 @@
 # Big Bang Environment Setup Tool
 # Version 1.2
 # Created by Jeremy McCarty, 2017-2018
-# Copyright (c) 2018. Jeremy McCarty. All rights reserved.  
+# All content © 2018 DigiPen (USA) Corporation and Jeremy McCarty, all rights reserved.
 
 import maya.cmds as cmds
 
